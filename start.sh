@@ -1,5 +1,5 @@
 #!/bin/bash
-IMAGE=netcomposer/openresty:1.11.2-0
+IMAGE=netcomposer/openresty:1.11.2-1
 
 docker rm openresty > /dev/null 2>&1
 
