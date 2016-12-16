@@ -1,3 +1,3 @@
 #!/bin/bash
-docker exec -ti openresty sh
+docker exec -ti openresty sh --login
 

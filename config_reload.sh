@@ -4,5 +4,5 @@
 # -t
 # -V
 
-docker exec -ti openresty openresty -s reload
+docker exec -ti openresty /usr/local/openresty/nginx/sbin/nginx -s reload
 
